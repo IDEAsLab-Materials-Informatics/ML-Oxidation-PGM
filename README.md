@@ -1,12 +1,12 @@
 # Data-driven Models and Insights on the Oxidation Behavior of Pt Group Metals Substituted \(\beta\)-NiAl
 
-Official repository containing the source code, dataset, featurization scripts, and machine learning models for the manuscript **"Data-driven Models and Insights on the Oxidation Behavior of Pt Group Metals Substituted \(\beta\)-NiAl"** [1.1].
+Official repository containing the source code, dataset, featurization scripts, and machine learning models for the manuscript [**"Data-driven Models and Insights on the Oxidation Behavior of Pt Group Metals Substituted \(\beta\)-NiAl"** [1.1].](https://doi.org/10.1016/j.commatsci.2026.115175)
 
 This repository provides full end-to-end support for reproducing the results outlined in the paper, including the materials database, feature engineering routines, machine learning model development (ANN, Random Forest, and XGBoost), evaluation metrics, and visualization workflows [1.1].
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 The repository is structured as follows to map out the different feature spaces and model architectures used in our study:
 
@@ -28,7 +28,7 @@ The repository is structured as follows to map out the different feature spaces 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Installation
 Clone this repository to your local directory:
@@ -46,7 +46,7 @@ Before executing code, please inspect the `system_versions` file to verify packa
 
 ---
 
-## 🛠️ Execution Pipeline
+## Execution Pipeline
 
 ### Step 1: Feature Engineering
 Extract physical, chemical, and structural material features from `Data_collected_PGM.xlsx` by running the scripts within the `Featurization/` folder:
@@ -69,16 +69,4 @@ cd XGBOOST_Physical_Features
 
 ---
 
-## 📄 Citation
 
-If you utilize this database, codebase, or saved weights in your research, please cite our manuscript:
-
-```bibtex
-@article{ideaslab2026oxidation,
-  title={Data-driven Models and Insights on the Oxidation Behavior of Pt Group Metals Substituted \(\beta\)-NiAl},
-  author={Your Author List},
-  journal={Your Target Journal / Conference},
-  year={2026},
-  url={https://github.com}
-}
-```
