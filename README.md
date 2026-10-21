@@ -1,6 +1,6 @@
 # Data-driven Models and Insights on the Oxidation Behavior of Pt Group Metals Substituted \(\beta\)-NiAl
 
-Official repository containing the source code, dataset, featurization scripts, and machine learning models for the manuscript [**"Data-driven Models and Insights on the Oxidation Behavior of Pt Group Metals Substituted \(\beta\)-NiAl"** [1.1].](https://doi.org/10.1016/j.commatsci.2026.115175)
+Official repository containing the source code, dataset, featurization scripts, and machine learning models for the manuscript [**"Data-driven Models and Insights on the Oxidation Behavior of Pt Group Metals Substituted \(\beta\)-NiAl"**.](https://doi.org/10.1016/j.commatsci.2026.115175)
 
 This repository provides full end-to-end support for reproducing the results outlined in the paper, including the materials database, feature engineering routines, machine learning model development (ANN, Random Forest, and XGBoost), evaluation metrics, and visualization workflows [1.1].
 
